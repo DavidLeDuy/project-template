@@ -37,6 +37,6 @@ Inline-style:
 | col 2 is      |   centered    |   $12 |
 | zebra stripes |   are neat    |    $1 |
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=V0oic-ix9bM
-" target="_blank"><img src="http://img.youtube.com/vi/V0oic-ix9bM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Q_WrhIgNHS8
+" target="_blank"><img src="http://img.youtube.com/vi/Q_WrhIgNHS8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
