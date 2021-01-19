@@ -2,7 +2,7 @@
     "Cmd": [
         "bash",
         "-c",
-        "nvidia-smi"
+        "source /root/catkin_ws/devel/setup.bash && source /root/catkin_ws/src/panda_demonstrator/venv/bin/activate && roslaunch panda_demonstrator step1.launch"
       ],
       "Hostconfig": {
         "Binds": ["/tmp/.X11-unix:/tmp/.X11-unix:rw"],
