@@ -1,0 +1,13 @@
+{
+    "Cmd": [
+        "bash",
+        "-c",
+        "nvidia-smi"
+      ],
+      "Hostconfig": {
+        "Binds": ["/tmp/.X11-unix:/tmp/.X11-unix:rw"],
+        "AutoRemove": true,
+        "Runtime": "nvidia"
+      },
+      "Env": ["QT_X11_NO_MITSHM=1", "DISPLAY=:0"]
+}
