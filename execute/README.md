@@ -2,7 +2,7 @@
 
 This folder contains the start parameters for Docker to start the Service.
 
-Here you can specify `docker run` options. The specific options are differ from the CLI options and are described in the [Docker API](https://docs.docker.com/engine/api/v1.41/#operation/ContainerCreate).
+Here you can specify `docker run` options. The specific options differ from the CLI options and are described in the [Docker API](https://docs.docker.com/engine/api/v1.41/#operation/ContainerCreate).
 
 The Image name is automatically assinged based on your GitHub Name and the Repository Name. Example: DavidLeDuy/service-template
 The container name is also automatically managed.
