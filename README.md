@@ -1,2 +1,2 @@
-# service-template
-Template for adding services
+# project-template
+Template for adding projects
