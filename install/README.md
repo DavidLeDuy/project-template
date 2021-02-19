@@ -15,4 +15,4 @@ Alternatively you can supply a Dockerfile into this folder that gets build local
 
 The Dockerfile acts as a fallback and the donwload over Docker Hub is prioritized.
 
-The support for external files is not planned for this version.
+The support for external providers is not planned for this version.
